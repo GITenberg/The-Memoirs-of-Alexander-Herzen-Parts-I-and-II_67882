@@ -1,0 +1,50 @@
+_repo: The-Memoirs-of-Alexander-Herzen-Parts-I-and-II_67882
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Duff, J. D. (James Duff)
+    alias: Duff, James Duff
+    birthdate: 1860
+    deathdate: 1940
+    gutenberg_agent_id: '39652'
+    url: http://www.gutenberg.org/2009/agents/39652
+    wikipedia: https://en.wikipedia.org/wiki/James_Duff_Duff
+creator:
+  author:
+    agent_name: Herzen, Aleksandr
+    aliases:
+    - Herzen, Alexander Ivanovich
+    - Hertzen, Aleksandr Ivanovich
+    - Герцен, Александр
+    - Herzen, Alexander
+    birthdate: 1812
+    deathdate: 1870
+    gutenberg_agent_id: '42905'
+    url: http://www.gutenberg.org/2009/agents/42905
+    wikipedia: https://en.wikipedia.org/wiki/Alexander_Herzen
+description: 'Translation of: Былое и думы.'
+gutenberg_issued: '2022-04-20'
+identifiers:
+  gutenberg: '67882'
+  lccn: '23013462'
+language: en
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=mdp.39015008683149&view=1up&seq=7
+pgterms:marc905: 20200331141613herzen
+pgterms:marc906: '1923'
+pgterms:marc907: US
+production_note: Carlos Colon, Barry Abrahamsen, the University of Michigan and the
+  Online Distributed Proofreading Team at https://www.pgdp.net (This book was produced
+  from images made available by the HathiTrust Digital Library.)
+publication_note: United States :Yale University Press,1923.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Herzen, Aleksandr, 1812-1870'
+- !lcsh 'Authors, Russian -- Biography'
+- !lcsh 'Socialists -- Soviet Union -- Biography'
+- !lcc 'DK'
+- !lcsh 'Revolutionaries -- Soviet Union -- Biography'
+- GITenberg
+title: The Memoirs of Alexander Herzen, Parts I and II
+url: http://www.gutenberg.org/ebooks/67882
