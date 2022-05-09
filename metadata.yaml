@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '39652'
     url: http://www.gutenberg.org/2009/agents/39652
     wikipedia: https://en.wikipedia.org/wiki/James_Duff_Duff
+covers:
+- cover_type: archival
+  image_path: 67882-h/images/cover.jpg
 creator:
   author:
     agent_name: Herzen, Aleksandr
@@ -23,6 +26,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/42905
     wikipedia: https://en.wikipedia.org/wiki/Alexander_Herzen
 description: 'Translation of: Былое и думы.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67882#The-Memoirs-of-Alexander-Herzen-Parts-I-and-II
 gutenberg_issued: '2022-04-20'
 identifiers:
   gutenberg: '67882'
